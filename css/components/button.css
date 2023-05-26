@@ -1,0 +1,14 @@
+.btn-beige {
+	background-color: #dab88b;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-beige:hover {
+  background-color: rgba(218, 184, 139, 0.75);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
